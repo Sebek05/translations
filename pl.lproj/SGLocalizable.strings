@@ -5,6 +5,13 @@
 "Settings.Tabs.ShowNames" = "Pokaż nazwy zakładek";
 
 "Settings.Folders.BottomTab" = "Foldery na dole";
+"Settings.Folders.BottomTabStyle" = "Bottom folders style";
+
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.ios" = "iOS";
+/* Do not translate */
+"Settings.Folders.BottomTabStyle.telegram" = "Telegram";
+
 "Settings.Folders.RememberLast" = "Otwórz ostatni folder";
 "Settings.Folders.RememberLast.Notice" = "Swiftgram otworzy ostatnio używany folder po ponownym uruchomieniu lub zmianie konta";
 
@@ -15,10 +22,10 @@
 "Settings.Translation.QuickTranslateButton" = "Przycisk Szybkie tłumaczenie";
 
 "Stories.Warning.Author" = "Autor";
-"Stories.Warning.ViewStory" = "Zobaczyć Historię?";
-/* Autor będzie wiedział, że obejrzałeś ich Historię */
-"Stories.Warning.Notice" = "%@ BĘDZIE WIEDZIAŁ, że obejrzałeś ich Historię.";
-"Stories.Warning.NoticeStealth" = "%@ nie będzie wiedział, że obejrzałeś ich Historię.";
+"Stories.Warning.ViewStory" = "Zobaczyć relację?";
+/* Autor będzie wiedział, że obejrzałeś jego relację */
+"Stories.Warning.Notice" = "%@ BĘDZIE WIEDZIAŁ, że obejrzano jego relację.";
+"Stories.Warning.NoticeStealth" = "%@ nie będzie wiedział, że obejrzano jego relację.";
 
 "Settings.Photo.Quality.Notice" = "Jakość wychodzących zdjęć i fotorelacji";
 "Settings.Photo.SendLarge" = "Wyślij duże zdjęcia";
@@ -53,6 +60,7 @@
 "Common.RestartRequired" = "Wymagany restart";
 "Common.RestartNow" = "Uruchom ponownie teraz";
 "Common.OpenTelegram" = "Otwórz Telegram";
+"Common.UseTelegramForPremium" = "Please note that to get Telegram Premium, you must use the official Telegram app. Once you have obtained Telegram Premium, all its features will become available in Swiftgram.";
 
 "Message.HoldToShowOrReport" = "Przytrzymaj, aby Pokazać lub Zgłosić.";
 
@@ -60,4 +68,23 @@
 "Auth.UnofficialAppCodeTitle" = "Kod można uzyskać tylko za pomocą oficjalnej aplikacji";
 
 "Settings.SmallReactions" = "Małe reakcje";
+
 "ContextMenu.SaveToCloud" = "Zapisz w chmurze";
+"ContextMenu.SelectFromUser" = "Select from Author";
+
+"Settings.ContextMenu" = "CONTEXT MENU";
+"Settings.ContextMenu.Notice" = "Disabled entries will be available in \"Swiftgram\" sub-menu.";
+
+
+"Settings.ChatSwipeOptions" = "Chatlist swipe options";
+/* Re-word like this string on offical app https://translations.telegram.org/en/ios/groups_and_channels/Chat.NextChannelSameLocationSwipeProgress */
+"Settings.PullToNextChannel" = "Pull to next unread channel";
+"Settings.GalleryCamera" = "Camera in gallery";
+/* "Send Message As..." button */
+"Settings.SendAsButton" = "\"%@\" button";
+"Settings.SnapDeletionEffect" = "Message deletion effects";
+
+"Settings.Stickers.Size" = "SIZE";
+"Settings.Stickers.Timestamp" = "Show Timestamp";
+
+"Settings.RecordingButton" = "Voice recording button";
